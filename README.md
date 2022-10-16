@@ -5,8 +5,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev
-# or
+npx create-next-app pls-give-a-name -e https://github.com/hubert-boguski/react-config
+
+cd pls-give-a-name #your app name
+
 yarn dev
 ```
 
